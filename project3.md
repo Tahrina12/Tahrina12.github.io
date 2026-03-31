@@ -1,6 +1,6 @@
-# Plastic Power Distribution Box — 4 to 18 Module
+# BUSBAR Trunking System — Ingress Protection IP65
 
-**Tools:** Autodesk Inventor · Product Design · DFM · Plastic Enclosure · Manufacturing Lead
+**Tools:** Autodesk Inventor · Sheet Metal · CNC · CAM · IP65 · AMADA
 
 [← Back to Portfolio](./index.md)
 
@@ -8,35 +8,34 @@
 
 ## Overview
 
-Designed a plastic enclosure electrical distribution board covering 4 to 18 module configurations for residential and light commercial applications. The project involved full product design from concept through manufacturing, including exploded assembly design, snap-fit and locking mechanisms, and prototype validation.
+Designed and fabricated a BUSBAR trunking system meeting IP65 ingress protection requirements — dust-tight and protected against water jets from any direction. The project was conducted in collaboration with Energypac Europe (Research Consultant: Alessandro Gallo) and involved full design-to-fabrication execution using CNC sheet metal processing.
 
 ---
 
 ## Objectives
 
-- Design a modular plastic enclosure for electrical distribution boards (4–18 module range)
-- Ensure design for manufacturability (DFM) for injection molding production
-- Lead the manufacturing team through prototype build and production release
+- Design a BUSBAR trunking enclosure meeting IP65 protection standard
+- Ensure dust-tight sealing and protection against water projected from any direction (6.3 mm nozzle)
+- Design for CNC fabrication using 1.2 mm Pre-painted Galvanized Sheet (PPGS) metal
 
 ---
 
 ## My Contribution
 
-- Led complete product design in Autodesk Inventor — parts, assemblies, and exploded views
-- Designed all sub-components: back part, front part, front door, door handle, holders, reversible panel, and locking clips
-- Applied DFM principles for injection molding — draft angles, wall thickness, snap-fit geometry, and assembly clearances
-- Served as Manufacturing Team Lead — coordinated prototype build, tooling review, and production release
-- Validated design against functional requirements through physical prototype testing
+- Implemented the enclosure design in Autodesk Inventor with appropriate clearances for IP65 gasket and insulator assembly
+- Operated AMADA HM1003 CNC machine for cutting, punching, and bending PPGS sheet metal to design specifications
+- Cut and bent internal aluminum/copper conductors and applied electric insulating paper wrapping
+- Assembled complete trunking units with insulators and gaskets to achieve IP65 certification compliance
+- Contributed to insulation improvement and conducted testing to verify IP65 performance
 
 ---
 
 ## Key Results
 
-- Successfully designed and released a modular enclosure family covering 4–18 module configurations
-- Prototype matched design intent with correct assembly fit and locking function
-- Design released to production with full documentation package
+- Successfully achieved IP65 ingress protection rating — dust-tight and water jet resistant
+- Design validated through physical testing per IP65 standard requirements
+- Full fabrication executed in-house using CNC equipment with no outsourced tooling
 
----
 
 ## Product Design
 
