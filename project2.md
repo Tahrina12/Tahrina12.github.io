@@ -36,15 +36,23 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 
 ## Key Results
 
-| Design Variant | Weight | Weight Reduction | Factor of Safety |
-|---|---|---|---|
-| Original (AISI 1020 Cold Rolled Steel) | 196 kg | — | Baseline |
-| Optimized — 12 mm plate | 110 kg | 44% | Adequate for production |
-| Optimized — 10 mm plate | ~96 kg | 51% | 2.18 |
+| Design Variant | Weight | Reduction | Factor of Safety | Recommendation |
+|---|---|---|---|---|
+| Original — AISI 1020 Cold Rolled Steel | 196 kg | — | Baseline | — |
+| Optimized — 12 mm plate | 110 kg | 44% | Adequate | ✅ Recommended |
+| Optimized — 10 mm plate | ~96 kg | 51% | 2.18 | Further weight saving if FoS acceptable |
 
+### Simulation Results
 
-**Stress Analysis Results**
-![Stress Analysis](./project2-stress_existing.png)
+| Previous Design (196 kg) | Optimized Design — 12 mm (110 kg) | Optimized Design — 10 mm (~96 kg, FoS = 2.18) |
+|:---:|:---:|:---:|
+| ![Previous design CAD](./project2-previous.png) | ![12mm optimized FEA](./project2-optimized-12mm.png) | ![10mm optimized FEA](./project2-optimized-10mm.png) |
+
+---
+
+## Tools & Methods
+
+SolidWorks (3D modeling) | SolidWorks Simulation (Topology Optimization & FEA) | AISI 1020 Cold Rolled Steel | Principal stress and moment of inertia analysis
 
 ![Stress Analysis](./project2-stress_optimized.png)
 
