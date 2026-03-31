@@ -1,7 +1,7 @@
 # Structural Optimization of Transformer Tanks
 **Tools:** SolidWorks · FEA · Sheet Metal · GD&T
 
-[← Back to Portfolio](./index)
+[← Back to Portfolio](./index.md)
 
 ---
 
