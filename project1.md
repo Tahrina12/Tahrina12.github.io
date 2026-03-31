@@ -1,3 +1,5 @@
+<img width="436" height="288" alt="project1-optimized" src="https://github.com/user-attachments/assets/e359e07d-8a37-425e-922f-e20f1ca0f6d4" />
+<img width="1966" height="1512" alt="project1-existing" src="https://github.com/user-attachments/assets/a7719355-5378-4d47-9ba9-1753fd20120c" />
 # Structural Optimization of Transformer Tanks
 **Tools:** SolidWorks · FEA · Sheet Metal · GD&T
 
