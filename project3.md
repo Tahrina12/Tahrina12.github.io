@@ -39,7 +39,7 @@ Designed and fabricated a BUSBAR trunking system meeting IP65 ingress protection
 
 ## Product Design
 
-| Exploded Assembly View & Assembled CAD Model | Physical Prototype |
+| Exploded Assembly View & Assembled CAD Model | Final Product|
 |:---:|:---:|
 | ![Exploded assembly](./project4-exploded.png) | ![Physical prototype](./project4-prototype.png) |
 
