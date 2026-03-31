@@ -2,7 +2,7 @@
 
 **Tools:** SolidWorks · Topology Optimization · Structural Analysis · FEA · DFM
 
-[← Back to Portfolio](./index)
+[← Back to Portfolio](./index.md)
 
 ---
 
