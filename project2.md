@@ -27,7 +27,11 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 - Conducted FEA stress and safety analysis for both variants to determine optimal plate thickness recommendation
 - Produced detailed engineering drawings for the recommended design for manufacturing release
 
----
+**Existing Design **
+![Existing Design](./project2-existing.png)
+
+**Optimized Design with C-Channel Stiffener**
+![Optimized Design](./project2-optimized.png)
 
 ## Key Results
 
@@ -36,6 +40,10 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 | Original (AISI 1020 Cold Rolled Steel) | 196 kg | — | Baseline |
 | Optimized — 12 mm plate | 110 kg | 44% | Adequate for production |
 | Optimized — 10 mm plate | ~96 kg | 51% | 2.18 |
+
+**Stress Analysis Results**
+![Stress Analysis](./project2-stress_existing.png)
+![Stress Analysis](./project2-stress_optimized.png)
 
 **Recommended solution:** 12 mm plate variant for production robustness
 
