@@ -26,12 +26,13 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 - Developed two optimized design variants (10 mm and 12 mm plate thickness) and evaluated each against the original 196 kg baseline
 - Conducted FEA stress and safety analysis for both variants to determine optimal plate thickness recommendation
 - Produced detailed engineering drawings for the recommended design for manufacturing release
-
-**Existing Design **
+- 
 ![Existing Design](./project2-existing.png)
+**Existing Design **
 
-**Optimized Design**
 ![Optimized Design](./project2-optimized.png)
+**Optimized Design**
+
 
 ## Key Results
 
