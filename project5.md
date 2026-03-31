@@ -42,7 +42,7 @@ Designed and manufactured a compact sheet metal enclosure for a TP+N busbar type
 
 | CAD Model | Exploded View | Final Product |
 |:---:|:---:|:---:|
-| ![CAD model](./project5-cad.png) | ![Exploded view](./project5-exploded.png) | ![Final product](./project5-final.png) |
+| ![CAD model](./project5-CAD.png) | ![Exploded view](./project5-exploded.png) | ![Final product](./project5-prototype.png) |
 
 ---
 
