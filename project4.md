@@ -42,7 +42,7 @@ Designed a plastic enclosure electrical distribution board covering 4 to 18 modu
 
 | Exploded Assembly | Assembled CAD Model | Physical Prototype |
 |:---:|:---:|:---:|
-| ![Exploded assembly view](./project4-exploded.png) | ![Assembled CAD model](./project4-CAD.png) | ![Physical prototype](./project4-prototype.png) |
+| ![Exploded assembly view](./project3-exploded.png) | ![Assembled CAD model](./project4-CAD.png) | ![Physical prototype](./project4-prototype.png) |
 
 ---
 
