@@ -26,13 +26,8 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 - Developed two optimized design variants (10 mm and 12 mm plate thickness) and evaluated each against the original 196 kg baseline
 - Conducted FEA stress and safety analysis for both variants to determine optimal plate thickness recommendation
 - Produced detailed engineering drawings for the recommended design for manufacturing release
-- 
-![Existing Design](./project2-existing.png)
-**Existing Design **
 
-![Optimized Design](./project2-optimized.png)
-**Optimized Design**
-
+---
 
 ## Key Results
 
@@ -42,21 +37,17 @@ Redesigned the conservator stand of a 120 MVA power transformer using topology o
 | Optimized — 12 mm plate | 110 kg | 44% | Adequate | ✅ Recommended |
 | Optimized — 10 mm plate | ~96 kg | 51% | 2.18 | Further weight saving if FoS acceptable |
 
-### Simulation Results
+### CAD Models
 
-| Previous Design (196 kg) | Optimized Design — 12 mm (110 kg) | Optimized Design — 10 mm (~96 kg, FoS = 2.18) |
-|:---:|:---:|:---:|
-| ![Previous design CAD](./project2-previous.png) | ![12mm optimized FEA](./project2-optimized-12mm.png) | ![10mm optimized FEA](./project2-optimized-10mm.png) |
+| Existing Design (196 kg) | Optimized Design (110 kg — 12 mm plate) |
+|:---:|:---:|
+| ![Existing design CAD](./project2-existing.png) | ![Optimized design CAD](./project2-optimized.png) |
 
----
+### FEA Simulation Results
 
-## Tools & Methods
-
-SolidWorks (3D modeling) | SolidWorks Simulation (Topology Optimization & FEA) | AISI 1020 Cold Rolled Steel | Principal stress and moment of inertia analysis
-
-![Stress Analysis](./project2-stress_optimized.png)
-
-**Recommended solution:** 12 mm plate variant for production robustness
+| Existing Design — FoS Baseline | Optimized Design — 10 mm plate, FoS = 2.18 |
+|:---:|:---:|
+| ![Stress analysis existing](./project2-stress_existing.png) | ![Stress analysis optimized](./project2-stress_optimized.png) |
 
 ---
 
